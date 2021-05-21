@@ -4,6 +4,8 @@ public class DriverClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		
 		Logistics air = LogisticsFactory.getLogistics(LogisticsType.AIR);
 		air.shipProduct();
 		
