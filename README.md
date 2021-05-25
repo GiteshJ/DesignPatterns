@@ -9,3 +9,4 @@
 
 ## Structural Design Patterns
 #### Bridge Pattern
+#### Adapter Pattern
