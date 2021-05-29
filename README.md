@@ -11,3 +11,5 @@
 #### Bridge Pattern
 #### Adapter Pattern
 #### Composite Pattern
+#### Decorator Pattern
+#### Facade Pattern
