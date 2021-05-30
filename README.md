@@ -13,3 +13,4 @@
 #### Composite Pattern
 #### Decorator Pattern
 #### Facade Pattern
+#### Proxy Pattern
