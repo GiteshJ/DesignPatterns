@@ -1,0 +1,5 @@
+package BehaviouralDesignPattern.ChainOfResponsibility.Authentication;
+
+public class OAuthAuthenticationProvider implements AuthenticationProvider{
+
+}
