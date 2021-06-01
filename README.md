@@ -17,3 +17,4 @@
 
 ## Behavioural Design Patterns
 #### Chain Of Responsibility Pattern
+#### Command Pattern
