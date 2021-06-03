@@ -19,3 +19,4 @@
 #### Chain Of Responsibility Pattern
 #### Command Pattern
 #### Interpreter Pattern
+#### Iterator Pattern
