@@ -20,3 +20,4 @@
 #### Command Pattern
 #### Interpreter Pattern
 #### Iterator Pattern
+#### Mediator Pattern
