@@ -21,3 +21,4 @@
 #### Interpreter Pattern
 #### Iterator Pattern
 #### Mediator Pattern
+#### Memento Pattern
