@@ -22,3 +22,4 @@
 #### Iterator Pattern
 #### Mediator Pattern
 #### Memento Pattern
+#### Observer Pattern
