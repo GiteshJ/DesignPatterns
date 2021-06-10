@@ -26,3 +26,4 @@
 #### State Pattern
 #### Strategy Pattern
 #### Template Pattern
+#### Visitor Pattern
